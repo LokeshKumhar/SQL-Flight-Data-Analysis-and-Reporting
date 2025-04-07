@@ -46,7 +46,8 @@ Each query in this repository solves a specific real-world airline business prob
 
 airline_sql_project/
  ┣ queries.sql                -- All business queries
- ┣ schema_files.sql           -- Table structures (airports, flights, etc.)
+ ┣ Airlines_schema_files.sql           -- Table structures (airports, flights, etc.)
+ ┣ Flight_Data_Analysis_and_Reporting     -- Questions for Queries
  ┣ README.md                  -- This file
 
 ## ## 🛠 Tools Used
