@@ -1,6 +1,6 @@
 # SQL-Flight-Data-Analysis-and-Reporting
 
-# ✈ Airline Database Analysis with SQL
+# Airline Database Analysis with SQL
 
 This project contains a series of advanced SQL queries and insights derived from a normalized airline database. It demonstrates how to use SQL for extracting business-critical insights related to flight operations, passenger behavior, aircraft utilization, and revenue analytics.
 
