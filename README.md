@@ -50,6 +50,6 @@ airline_sql_project/
  ┣ Flight_Data_Analysis_and_Reporting     -- Questions for Queries
  ┣ README.md                  -- This file
 
-## ## 🛠 Tools Used
+## Tools Used
 
 - MySQL
